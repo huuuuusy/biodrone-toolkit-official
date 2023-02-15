@@ -90,9 +90,9 @@ unzip attribute.zip -d attribute
 |  |  |  |-- frame_600/
 |  |-- attribute/
 |  |  |-- absent/
-|  |  |-- color_constancy_tran/
+|  |  |-- blur_bbox/
 |  |  |   ......
-|  |  |-- shotcut/
+|  |  |-- restart/
 ```
 
 ### A Concise Example
