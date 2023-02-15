@@ -33,7 +33,7 @@ Then directly copy the `biodrone` folder to your workspace to use it.
 
 ### Dataset Download
 
-The dataset for the 3rd HISLOPVISION challenge includes 300 sequences, divided into three subsets (*train*/*val*/*test*). 
+The BioDrone dataset includes 300 sequences, divided into three subsets (*train*/*val*/*test*). 
 
 The dataset download and file organization process is as follows：
 

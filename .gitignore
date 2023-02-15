@@ -12,3 +12,4 @@ dist/
 !.gitignore
 info/
 *.pth
+CMD
