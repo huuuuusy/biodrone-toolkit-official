@@ -157,8 +157,9 @@ class ExperimentBioDrone(object):
                 print('Records saved at', submission_dir + '.zip')
 
             # print submission guides
-            print('\033[93m[WARNING]:\n' \
-                  'The groundtruths of BioDrone\'s test set is withholded.\033[0m')
+            print('\033[93mLogin and follow instructions on')
+            print('http://biodrone.aitestunion.com/')
+            print('to upload and evaluate your tracking results\033[0m')
 
             # switch back to previous working directory
             os.chdir(pwd)

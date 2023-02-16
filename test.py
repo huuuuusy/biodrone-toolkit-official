@@ -48,7 +48,7 @@ if __name__ == '__main__':
     """
     II. EVALUATION
     """
-    tracker_names = ['SiamFC','SiamRPN']
+    tracker_names = ['SiamFC']
 
     for repetition in range(repetitions):
         experiment = ExperimentBioDrone(root_dir, save_dir, subset, repetition+1)
