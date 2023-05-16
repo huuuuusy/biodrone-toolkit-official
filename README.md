@@ -167,3 +167,8 @@ experiment.report([tracker.name])
 ### Issues
 
 Please report any problems or suggessions in the [Issues](https://github.com/huuuuusy/biodrone-toolkit-official/issues) page.
+
+
+### Contributors
+- [Shiyu Hu](https://github.com/huuuuusy)
+- [Yipei Wang](https://github.com/updateforever)
